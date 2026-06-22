@@ -1,0 +1,6 @@
+{
+  "name": "WILDVF",
+  "description": "A modern, premium minimalistic VPN client supporting next-gen secure tunnels, advanced analytic charts, real-time logs, and multi-language switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
